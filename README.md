@@ -1,1 +1,3 @@
-Simple Django Blog project with authentication.
+# DjangoProject
+
+Simple Django blog project with authentication.
